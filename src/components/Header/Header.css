@@ -1,0 +1,12 @@
+.header .link {
+    margin-left: 50px;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.header .link:hover {
+    color: red;
+}
