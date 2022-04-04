@@ -24,9 +24,9 @@ const Home = () => {
                 <div className='reviews-container'>
                     {reviews.map(review => (review.id < 4) && <Review key={review.id} review={review}></Review>)}
                 </div>
-                {/* <Link> */}
-                <div className='review-button-container'><button className='review-button'>See All Reviews</button></div>
-                {/* </Link> */}
+                <Link to={'/reviews'}>
+                    <div className='review-button-container'><button className='review-button'>See All Reviews</button></div>
+                </Link>
             </div>
         </div>
     );
