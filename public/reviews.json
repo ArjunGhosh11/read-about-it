@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "body": "These bluetooth headphones feel very well-built and have a decently comfortable fit for long days at work. They have an ANC feature that does a great job isolating you from ambient sound, including noises like traffic outside your window and ambient chatter at the office. They don't leak very much sound, so your music is unlikely to bother nearby co-workers. ",
+        "name": "Amelia Abbot",
+        "rating": 4
+    },
+    {
+        "id": "2",
+        "body": "Bose headphones offer excellent sound quality and bags of style. It’s no surprise they’re among the most popular headphones in the world and have wide appeal with everyone, from casual music lovers to audiophiles.",
+        "name": "Howe Mitchell",
+        "rating": 5
+    },
+    {
+        "id": "3",
+        "body": "I've worn it for a week now, and I have found them to be immensely comfortable. Weighing in at 9 ounces, the 700s are lighter than the Sony WH-1000XM3 headphones (9.7 ounces) but heavier than their predecessors (8.3 ounces).",
+        "name": "Jeanine Meyers",
+        "rating": 3.5
+    },
+    {
+        "id": "4",
+        "body": "Bose didn't load the it up with a ton of buttons, which I appreciate. The buttons that are present are slim, slightly raised and positioned along the back of the ear cups. Along the right ear cup, you have the Power / Pairing button and the digital assistant button, while the left has the noise-cancellation / conversation-mode buttons. The three buttons have a nice click when pressed and are easy to find when you're out and about.",
+        "name": "Cote Nixon",
+        "rating": 3
+    },
+    {
+        "id": "5",
+        "body": "Providing a ton of control, the Bose 700 headphones give quiet-seekers 11 levels to choose from via the Bose app. Press the ANC button, and you can toggle between three of those settings on the fly: High, Medium and Full Transparency. High is definitely impressive, especially when paired with music, as it effectively drowned out the typical noises of New York City.",
+        "name": "Ester Lane",
+        "rating": 4.5
+    },
+    {
+        "id": "6",
+        "body": "This headphones have Alexa baked right into the interface. And depending on the connected device, you can access Siri or Google Assistant (see our guide to the best Google Assistant features and the best Alexa skills for a taste of what you'll be able to do). All you have to do is push the VPA button, and your default assistant will be there. ",
+        "name": "Ester Lane",
+        "rating": 5
+    }
+]

@@ -1,4 +1,4 @@
-.home {
+.home-main {
     margin: 0px 50px;
     display: grid;
     grid-template-columns: 2fr 1fr;
@@ -13,6 +13,39 @@
     color: rgba(221, 122, 15, 0.649);
 }
 
-.home img {
+.home-main img {
     width: 80%;
+}
+
+.customer-review {
+    margin-bottom: 100px;
+}
+
+.customer-review-title {
+    text-align: center;
+}
+
+.reviews-container {
+    padding: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.reviews-container div {
+    margin: 10px;
+}
+
+.review-button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.review-button {
+    width: 250px;
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: bolder;
+    background-image: linear-gradient(rgba(128, 128, 128, 0.518), rgb(255, 184, 5));
 }
