@@ -1,6 +1,6 @@
 # Read About It
 
-## [Private Repo Link](https://assignment-9-16829c.netlify.app/)
+## [Live Website Link](https://assignment-9-16829c.netlify.app/)
 
 * This website have 5 routes and will not reload while you navigate through its different routes.
 
