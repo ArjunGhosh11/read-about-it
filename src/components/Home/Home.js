@@ -4,7 +4,7 @@ import useReviews from '../../hooks/useReviews';
 import Review from '../Review/Review';
 import './Home.css'
 const Home = () => {
-    const [reviews, setReviews] = useReviews();
+    const reviews = useReviews();
     return (
         <div>
             <div className='home-main'>
@@ -20,7 +20,7 @@ const Home = () => {
                 </div>
             </div>
             <div className='customer-review'>
-                <h1 className='customer-review-title title-1'>CUSTOMER REVIEWS-{reviews.length}</h1>
+                <h1 className='customer-review-title title-1'>CUSTOMER REVIEWS</h1>
                 <div className='reviews-container'>
                     {reviews.map(review => (review.id < 4) && <Review key={review.id} review={review}></Review>)}
                 </div>

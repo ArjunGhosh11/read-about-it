@@ -1,0 +1,56 @@
+.charts {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.line-chart {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.bar-chart-main {
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-1 {
+    margin: 0 10px;
+    background-color: #8884d8;
+    height: 15px;
+    width: 15px;
+    display: inline;
+}
+
+.text-1 {
+    color: #8884d8;
+    font-weight: bolder;
+}
+
+.box-2 {
+    margin: 0 10px;
+    display: inline;
+    background-color: #90ee90;
+    height: 15px;
+    width: 15px;
+}
+
+.text-2 {
+    color: #90ee90;
+    font-weight: bolder;
+}
+
+.bar-chart {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
