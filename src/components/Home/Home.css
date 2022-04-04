@@ -51,3 +51,7 @@
     font-weight: bolder;
     background-image: linear-gradient(rgba(128, 128, 128, 0.518), rgb(255, 184, 5));
 }
+
+.review-button:hover {
+    color: gray;
+}
